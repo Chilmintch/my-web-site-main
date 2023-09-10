@@ -13,7 +13,8 @@ this my favorite books page
 
 Direction to the page with information about the book
 
-![Ekran Görüntüsü (58)](https://github.com/Chilmintch/my-web-site-main/assets/102154946/1e9dff59-6a43-4587-a09e-6eea6520e619)
+![Ekran Görüntüsü (58)](https://github.com/Chilmintch/my-web-site-main/assets/102154946/7bead246-4705-4a6f-b810-684761116729)
+
 
 
 
